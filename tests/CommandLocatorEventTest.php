@@ -1,8 +1,8 @@
 <?php declare(strict_types=1);
 
-namespace ApiClients\Tests\Foundation;
+namespace ApiClients\Tests\Foundation\Events;
 
-use ApiClients\Foundation\CommandLocatorEvent;
+use ApiClients\Foundation\Events\CommandLocatorEvent;
 use ApiClients\Tools\TestUtilities\TestCase;
 
 final class CommandLocatorEventTest extends TestCase

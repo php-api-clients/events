@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace ApiClients\Foundation;
+namespace ApiClients\Foundation\Events;
 
 use League\Event\AbstractEvent;
 use WyriHaximus\Tactician\CommandHandler\Mapper;
