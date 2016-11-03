@@ -11,6 +11,7 @@
   ],
   "require": {
     "php": "^7.0",
+    "api-clients/service": "dev-master",
     "api-clients/test-utilities": "dev-master",
     "league/event": "^2.1",
     "wyrihaximus/tactician-command-handler-mapper": "^1.0"
