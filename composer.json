@@ -12,16 +12,11 @@
   "require": {
     "php": "^7.0",
     "api-clients/service": "dev-master",
-    "api-clients/test-utilities": "dev-master",
     "league/event": "^2.1",
     "wyrihaximus/tactician-command-handler-mapper": "^1.0"
   },
   "require-dev": {
-    "humbug/humbug": "1.0.0-alpha2",
-    "phake/phake": "^2.3",
-    "phpspec/prophecy": "^1.6",
-    "phpunit/phpunit": "^5.2.3",
-    "squizlabs/php_codesniffer": "^2.6"
+    "api-clients/test-utilities": "dev-master"
   },
   "autoload": {
     "psr-4": {
